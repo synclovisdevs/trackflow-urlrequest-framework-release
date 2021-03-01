@@ -1,0 +1,4 @@
+framework module Trackflowai {
+  header "Trackflowai-Swift.h"
+  requires objc
+}
